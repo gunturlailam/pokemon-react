@@ -1,5 +1,7 @@
+import PokemonList from "./components/PokemonList/PokemonList";
+
 function App(){
-  return <></>;
+  return <PokemonList />;
 }
 
 export default App;
